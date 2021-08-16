@@ -34,25 +34,25 @@ Esprero que esse material sirva de auxílio no aprendizado de outros, assim como
 
 Aprender comandos da linguagem python na prática. Aqui será apresentado o seguinte conteúdo: 
 
-* 1 - Inicinado com o jupyter notebook.
-* 2 - Variáveis operadores e tipos de dados.
-* 3 - Strings.
-* 4 - Tuplas.
-* 5 - Listas.
-* 6 - Conjuntos.
-* 7 - Dicionários.
-* 8 - Condicionais if e else.
-* 9 - Estruturas de repetição loop for e while
-* 10 - Funções e Métodos
-* 11 - Classes e Objeto
-* 12 - Manipulação de Arquivos
-* 13 - Expressões Regulares
+* [1 - Inicinado com o jupyter notebook.](https://github.com/ziul-bio/Aprendendo_Python/blob/main/01%20-%20Iniciando%20com%20o%20Jupyter%20Notebook/01-Como%20Utilizar%20Jupyter%20Notebook.ipynb)
+* [2 - Variáveis operadores e tipos de dados.](https://github.com/ziul-bio/Aprendendo_Python/tree/main/02%20-%20Vari%C3%A1veis%2C%20Operadores%20e%20Tipos%20de%20Dados)
+* [3 - Strings.](https://github.com/ziul-bio/Aprendendo_Python/tree/main/03%20-%20Strings)
+* [4 - Tuplas.](https://github.com/ziul-bio/Aprendendo_Python/tree/main/04%20-%20Tuplas)
+* [5 - Listas.](https://github.com/ziul-bio/Aprendendo_Python/tree/main/05%20-%20Listas)
+* [6 - Conjuntos.](https://github.com/ziul-bio/Aprendendo_Python/tree/main/06%20-%20Conjuntos%20sets())
+* [7 - Dicionários.](https://github.com/ziul-bio/Aprendendo_Python/tree/main/07%20-%20Dicion%C3%A1rios)
+* [8 - Condicionais if e else.](https://github.com/ziul-bio/Aprendendo_Python/tree/main/08%20-%20Condicionais%20if%20else)
+* [9 - Estruturas de repetição loop for e while.](https://github.com/ziul-bio/Aprendendo_Python/tree/main/09%20-%20Estruturas%20de%20repeti%C3%A7%C3%A3o%20Loop%20For%20and%20While)
+* [10 - Funções e Métodos.](https://github.com/ziul-bio/Aprendendo_Python/tree/main/10%20-%20Fun%C3%A7%C3%B5es%20e%20M%C3%A9todos)
+* [11 - Classes e Objeto.](https://github.com/ziul-bio/Aprendendo_Python/tree/main/11%20-%20Classes%20e%20Objetos%20-%20POO)
+* [12 - Manipulação de Arquivos.](https://github.com/ziul-bio/Aprendendo_Python/tree/main/12%20-%20Manipula%C3%A7%C3%A3o%20de%20Arquivos)
+* [13 - Expressões Regulares.](https://github.com/ziul-bio/Aprendendo_Python/tree/main/13%20-%20Express%C3%B5es%20Regulares)
 
 ### Referências
 Além das referências a baixo, muitos dos exemplos aqui apresentado, aprendi durante os meus cursos em python, do qual recomendo a quem interessar.  
+
 [Python Fundamentos Para Análise de Dados 3.0](https://www.datascienceacademy.com.br/course/python-fundamentos)  
 [Introdução à Computação para Bioinformática (Python)](http://www.onlinebioinfo.dcc.ufmg.br/cursos/)  
-
 https://www.w3schools.com/python/default.asp
 https://docs.python.org/pt-br/3/contents.html
 https://anandology.com/python-practice-book/index.html
