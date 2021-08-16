@@ -49,9 +49,9 @@ Aprender comandos da linguagem python na prática. Aqui será apresentado o segu
 * 13 - Expressões Regulares
 
 ### Referências
-Além das referências a baixo, muitos dos exemplos aqui apresentado, aprendi durante os meus cursos em python, do qual recomendo a quem interessar.
-[Python Fundamentos Para Análise de Dados 3.0](https://www.datascienceacademy.com.br/course/python-fundamentos)
-[Introdução à Computação para Bioinformática (Python)](http://www.onlinebioinfo.dcc.ufmg.br/cursos/)
+Além das referências a baixo, muitos dos exemplos aqui apresentado, aprendi durante os meus cursos em python, do qual recomendo a quem interessar.  
+[Python Fundamentos Para Análise de Dados 3.0](https://www.datascienceacademy.com.br/course/python-fundamentos)  
+[Introdução à Computação para Bioinformática (Python)](http://www.onlinebioinfo.dcc.ufmg.br/cursos/)  
 
 https://www.w3schools.com/python/default.asp
 https://docs.python.org/pt-br/3/contents.html
