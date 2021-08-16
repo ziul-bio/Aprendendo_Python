@@ -53,13 +53,10 @@ Além das referências a baixo, muitos dos exemplos aqui apresentado, aprendi du
 
 [Python Fundamentos Para Análise de Dados 3.0](https://www.datascienceacademy.com.br/course/python-fundamentos)  
 [Introdução à Computação para Bioinformática (Python)](http://www.onlinebioinfo.dcc.ufmg.br/cursos/)  
+  
 https://www.w3schools.com/python/default.asp
 https://docs.python.org/pt-br/3/contents.html
 https://anandology.com/python-practice-book/index.html
 https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g
 https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA
-
-
-
-
 
