@@ -1,0 +1,4 @@
+Cientista de Dados 
+tem crescido em todo mundo.
+Esses profissionais precisam se especializar em Programação, Estatística e Machine Learning.
+E claro, em Big Data.
