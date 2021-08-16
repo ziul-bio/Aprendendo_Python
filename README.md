@@ -26,8 +26,8 @@ Recentemente, atuou como Analista de Laboratório no controle de qualidade biol�
 
 ### Introdução
 Este repositório foi criado com o intuido de servir como uma forma rápida de acessar conceitos e exemplos da linguagem python.
-Tais exemplos são representados em linhas de códigos e também adicionei comentários para facilitar o seu uso e entendimento.
-Esprero que esse material sirva de auxílio no aprendizado de outros, assim como serviu e vem servindo ao meu.
+Tais exemplos são representados em linhas de códigos comentadas, para facilitar o seu uso e entendimento.
+Espero que esse material sirva de auxílio no aprendizado de outros, assim como serviu e vem servindo ao meu.
 
 
 ### Objetivos
