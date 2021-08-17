@@ -8,12 +8,7 @@
 <sub>*Bioólogo* Aspirante a uma carreira de analista de dados biológico / Bioinformáta</sub>
 
 Possui graduação em Ciências Biológicas e Mestrado em Ciências pelo Departamento de Biologia Celular e Molecular e Bioagentes Patogênicos.
-<<<<<<< HEAD
 Atuou como Técnico de Laboratório (Trainne) e Pesquisador (Mestrando) no Centro de Pesquisas em Virologia (USP).
-=======
-Atuou como Técnico de Laboratório (Trainne) e Pesquisador (Mestrando) no Centro de Pesquisas em Virologia (USP), onde desenvolveu atividades
-de pesquisa e desenvolvimento em virologia.
->>>>>>> a431740bc4817d9a24089538a263ddc19cc4b0b7
 Recentemente, atuou como Analista de Laboratório no controle de qualidade biológico, realizando testes de controle de qualidade de vacinas virais.
 
 **Experiência em:** Biologia Celular e Molecular, Virologia, Python, Análise exploratória de dados, Pandas, Matplotlib.
@@ -29,15 +24,9 @@ Recentemente, atuou como Analista de Laboratório no controle de qualidade biol�
 
 
 ### Introdução
-<<<<<<< HEAD
 Este repositório foi desenvolvido com o intuido de servir como uma forma rápida de acessar conceitos e exemplos da linguagem python.
 Tais exemplos são representados em linhas de códigos comentados para facilitar o seu uso e entendimento.
 Espero que este material sirva de auxílio no aprendizado de outros iniciantes em python, assim como serviu e vem servindo ao meu.
-=======
-Este repositório foi criado com o intuido de servir como uma forma rápida de acessar conceitos e exemplos da linguagem python.
-Tais exemplos são representados em linhas de códigos comentadas, para facilitar o seu uso e entendimento.
-Espero que esse material sirva de auxílio no aprendizado de outros, assim como serviu e vem servindo ao meu.
->>>>>>> a431740bc4817d9a24089538a263ddc19cc4b0b7
 
 
 ### Objetivos
